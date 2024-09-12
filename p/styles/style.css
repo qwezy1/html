@@ -4,5 +4,10 @@ body{
 ul li{
     display: inline;
 }
+#title2{
+    border: 2px solid red;
+    width: 500px;
+    height: 100vh;
+}
 /* комментарий*/
 /*developer.mozila*/
